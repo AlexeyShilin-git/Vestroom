@@ -25,6 +25,7 @@ const useStyles = makeStyles((theme) => ({
   titleS: {
     fontFamily: "cursive",
     fontSize: "1.5rem",
+    fontStyle: "italic"
   },
 }));
 
